@@ -51,6 +51,12 @@ body, input, button {
   flex-direction: column;
 }
 
+.content form label span {
+  font-weight: normal;
+  color: #999;
+  font-size: 12px;
+}
+
 .content form label {
   font-size: 14px;
   color: #444;
